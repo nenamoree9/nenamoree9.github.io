@@ -1,1 +1,5 @@
-
+title: Devcraft
+#logo
+description: Devcraft is an open-source Minecraft clone released on December 10, 2023 and release to the public 2 days later.
+#show_downloads: true
+theme: jekyll-theme-minimal
